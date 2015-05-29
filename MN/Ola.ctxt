@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment1.params=y1\ y2
+comment1.target=void\ mover(int,\ int)
+numComments=2

@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment0.text=\r\n\ En\ el\ metodo\ act\ se\ identifica\ si\ el\ ninja\ esta\ sobre\ un\ palo\ y\ si\ esta\ sobre\ uno\r\npuede\ saltar\ si\ no\ es\ asi\ no\ le\ permite\ saltar,\ aqui\ tambien
+comment1.params=
+comment1.target=void\ brincar()
+comment2.params=
+comment2.target=void\ caer()
+comment3.params=
+comment3.target=boolean\ siTocaBarra()
+comment4.params=
+comment4.target=int\ getXNinja()
+comment5.params=
+comment5.target=int\ getYNinja()
+comment6.params=
+comment6.target=void\ checaPierde()
+comment7.params=
+comment7.target=void\ niveles()
+numComments=8

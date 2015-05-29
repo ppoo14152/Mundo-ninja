@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=buttonName
+comment0.target=void\ act(java.lang.String)
+comment0.text=\r\n\ Este\ metodo\ realiza\ distintas\ funciones\r\n\ Coloca\ las\ imagenes\ de\ los\ botones\ en\ la\ pantalla\r\n\ Checa\ si\ algun\ boton\ ha\ sido\ presionado\ y\ si\ es\ asi\ te\ envia\ a\ la\ pantalla\ correspondiente\r\n
+numComments=1

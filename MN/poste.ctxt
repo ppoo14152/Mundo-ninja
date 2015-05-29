@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=
+comment0.target=poste()
+comment1.params=
+comment1.target=void\ addBarra()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ moverPIPES()
+comment3.text=\r\n\ metodo\ que\ funciona\ para\ ir\ moviendo\ los\ postes\ o\ pipas\r\n
+comment4.params=
+comment4.target=void\ eliminarFinal()
+comment4.text=\r\n\ Metodo\ que\ elimina\ los\ postes\ al\ llegar\ al\ final\ de\ la\ pantalla\r\n
+comment5.params=
+comment5.target=void\ detener()
+comment6.params=
+comment6.target=void\ mover()
+numComments=7

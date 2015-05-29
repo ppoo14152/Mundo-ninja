@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment0.text=\r\n\ Act\ -\ do\ whatever\ the\ Ave\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n\ En\ este\ caso\ el\ Act\ de\ la\ clase\ enemigo\ lo\ utilizamos\ como\ un\ ciclo,\ \r\n\ nos\ ayuda\ a\ incrementar\ una\ variable\ la\ cual\ funciona\ en\ el\ metodo\ cambiarImagen\r\n\ que\ aparece\ despues\r\n
+comment1.params=
+comment1.target=void\ cambiarImagen()
+comment1.text=\r\n\ Este\ metodo\ ayuda\ a\ cambiar\ la\ imagen\ del\ enemigo\ ave,\ para\ que\ mientras\r\n\ va\ volando\ se\ vea\ un\ tipo\ de\ animacion.\r\n
+numComments=2
